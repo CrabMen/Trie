@@ -1,0 +1,6 @@
+framework module Trie {
+  umbrella header "Trie-umbrella.h"
+
+  export *
+  module * { export * }
+}

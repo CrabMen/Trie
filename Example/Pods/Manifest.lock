@@ -1,0 +1,16 @@
+PODS:
+  - Trie (0.1.0)
+
+DEPENDENCIES:
+  - Trie (from `../`)
+
+EXTERNAL SOURCES:
+  Trie:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Trie: 8c117b09289946037abc43db4cc9c08d7f0deec0
+
+PODFILE CHECKSUM: d47283c434877df3cf288c38dcff63c9d7a7cc7a
+
+COCOAPODS: 1.9.1
